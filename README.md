@@ -11,4 +11,4 @@ code .
 # contributing
 Pull requestler kabul edilir.Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # license
-[MIT](https://https://github.com/beyhang/kodluyoruzilkrepo/blob/main/LICENSE)
+[MIT](https://github.com/beyhang/kodluyoruzilkrepo/blob/main/LICENSE)
